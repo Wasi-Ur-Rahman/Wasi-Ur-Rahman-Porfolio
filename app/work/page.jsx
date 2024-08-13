@@ -24,11 +24,9 @@ const projects = [
     description:
       "Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts",
     stack: [
-      { name: "NextJS" },
-      { name: "ReactJS" },
-      { name: "Firebase" },
-      { name: "Redux" },
-      { name: "TailwindCSS" },
+      { name: "Tailwind" },
+      { name: "NextJS"},
+      { name: "Firebase"}
     ],
     image: "/assets/work/thumb1.png",
     github: "https://github.com/Wasi-Ur-Rahman/Promptopia-AI-Powered-Prompts-",
@@ -40,11 +38,7 @@ const projects = [
     description:
       "This comprehensive web application will serve as the nerve center for all waste management activities within the jurisdiction of the Dhaka North City Corporation.",
     stack: [
-      { name: "ExpressJS" },
-      { name: "ReactJS" },
-      { name: "MongoDB" },
-      { name: "NodeJS" },
-      { name: "TailwindCSS" },
+      { name: "MERN" }
     ],
     image: "/assets/work/thumb2.png",
     github: "https://github.com/Wasi-Ur-Rahman/cs24-p2-ALPHA_CENTAURI",
@@ -120,7 +114,7 @@ const Work = () => {
               <div className="flex items-center gap-4">
                 {/* github project button */}
                 <Link href={project.github}>
-                  <TooltipProvider>
+                  <TooltipProvider delayDuration={100}>
                     <Tooltip>
                       <TooltipTrigger className="w-[70px] h-[70px] rounded-full bg-white/5 flex justify-center items-center group">
                         <BsGithub className="text-white text-3xl group-hover:text-accent" />
