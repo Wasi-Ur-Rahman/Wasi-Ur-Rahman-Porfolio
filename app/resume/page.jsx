@@ -64,7 +64,7 @@ const education = {
 const skills = {
   title: "My Skills",
   description:
-    "Proficient in: ⚡ C++ ⚡ Javascript ⚡ Algorithmic Problem Solving (solved 2300+ problems on various online platforms) ⚡ Data Structures and Algorithms ⚡ Competitive Programming ⚡ Full Stack Development",
+    "Proficient in: ⚡ C++ ⚡ Javascript ⚡ Algorithmic Problem Solving (solved 3200+ problems on various online platforms) ⚡ Data Structures and Algorithms ⚡ Competitive Programming ⚡ Full Stack Development",
   skillList: [
     {
       icon: <FaHtml5 />,
