@@ -16,10 +16,7 @@ const Home = () => {
               Hello {"I'm"} <br /> <span className="text-accent">Wasi Ur Rahman</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              With a strong foundation in Data Structures and Algorithms (DSA)
-              and Object-Oriented Programming (OOP), I am passionate about
-              leveraging my problem-solving skills and technical expertise to
-              create innovative web solutions.
+              ICPC Regionalist | Expert (Blue) at Codeforces | 4* (Purple) at CodeChef | Solved 3200+ problems on various online judges
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
