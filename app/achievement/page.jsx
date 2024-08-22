@@ -39,9 +39,9 @@ const achievements = [
   },
   {
     num: "06",
-    title: "2300+ Problems solved",
-    description: "Solved 2300+ problems among different online judges including Codeforces, Leetcode and so on",
-    href: "https://codeforces.com/profile/Wasi_Ur",
+    title: "3200+ Problems solved",
+    description: "Solved 3200+ problems among different online judges including Codeforces, Leetcode and so on",
+    href: "https://github.com/Wasi-Ur-Rahman/Problem-Solving-statistics",
   },
 ];
 
