@@ -21,7 +21,7 @@ const Home = () => {
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="/(CV) Wasi Ur Rahman.pdf"
+                href="/(CV)_Wasi_Ur_Rahman.pdf"
                 download
                 className="uppercase flex items-center gap-2"
               >
